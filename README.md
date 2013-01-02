@@ -1,6 +1,9 @@
 bawi.org
 ========
 
+Setting up development environment on Mac
+-----------------------------------------
+
 1. https://toolbelt.heroku.com/
 2. https://rvm.io/
 3. http://postgresapp.com/
