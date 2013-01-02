@@ -6,5 +6,6 @@ bawi.org
 3. http://postgresapp.com/
 
 ```
-gem install pg -- --with-pg-config=/Applications/Postgres.app/Contents/MacOS/bin/pg_config
+$ rvm install 1.9.3 --default
+$ gem install pg -- --with-pg-config=/Applications/Postgres.app/Contents/MacOS/bin/pg_config
 ```
